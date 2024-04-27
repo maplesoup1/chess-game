@@ -1,4 +1,4 @@
-![image](https://github.com/maplesoup1/chess-game/assets/91361133/3c959cc2-06c5-4b89-b5e9-2b98d3163b64)# chess-game
+# chess-game
 The project is mainly divided into four parts to implement. The first part is the model package, the second part is the App class, the third part is the Consts class, and the last part is testing. The functionality of each part of the project is different.
 
 The Consts class contains all constants that may be used during the project process. In this way, we can easily maintain the constants in the program. If a constant needs to be modified, it can be directly modified in the Consts class for easy program maintenance.
